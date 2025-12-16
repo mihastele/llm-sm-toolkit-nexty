@@ -307,7 +307,7 @@ export default function HomePage() {
             <span className="font-semibold">LLM Toolkit</span>
           </div>
           <p className="text-sm text-muted-foreground">
-            © 2024 LLM Toolkit. Built for the AI community.
+            © 2026 LLM Toolkit. Built for the AI community.
           </p>
         </div>
       </footer>
